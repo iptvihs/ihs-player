@@ -1,7 +1,4 @@
 {
-  "announcement_message": "🚨 Bu akşam Şampiyonlar Ligi maçı nedeniyle sunucularda yoğunluk olabilir!",
-  "announcement_version": 2,
-  "show_announcement": true,
-  "action_url": "https://iptvprojen.com/mac-programi",
-  "min_version_required": "1.0.5"
+  "announcement_message": "Uygulamamıza hoş geldiniz! BETA SÜRÜMÜDÜR.",
+  "announcement_version": 1
 }
