@@ -1,0 +1,13 @@
+    [
+      {
+        "id": 1,
+        "title": "Hoş Geldiniz!",
+        "message": "Uygulamamızı kullandığınız için teşekkürler."
+      },
+      {
+        "id": 2,
+        "title": "Yeni Filmler Eklendi",
+        "message": "Bu hafta eklenen en yeni gişe rekortmeni filmlere göz atın."
+      }
+    ]
+    
