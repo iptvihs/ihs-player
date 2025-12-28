@@ -1,5 +1,3 @@
-#EXTM3U
-
 #========================================
 # DIZI: Avatar – The Last Airbender
 # TUR: Aksiyon, Macera, Fantastik (Live-Action)
@@ -10,33 +8,70 @@
 # IMDB: 7.3 / 10
 # KONUSU:
 # Yüz yıldır kayıp olan Avatar Aang,
-# Ateş Ulusu’nun dünyaya yaydığı
-# tehdidi durdurmak için geri döner.
-# Katara ve Sokka ile birlikte
-# dört ulus arasında dengeyi
-# yeniden sağlamak zorundadır.
+# Ateş Ulusu’nun tehdidine karşı
+# dünyaya dengeyi geri getirmek zorundadır.
 #========================================
 
-#EXTINF:-1 tvg-id="Avatar.LA.S01E01" tvg-name="Avatar LA S01E01" tvg-logo="https://image.tmdb.org/t/p/original/9YQG6b2wXz8fK0J0a7mZq9xGZkF.jpg" group-title="Diziler / Avatar (Live-Action)",Avatar S01E01 | IMDb 7.3 | Aang buzdan uyanır ve Avatar olduğunu öğrenir
+#EXTINF:-1 tvg-id="Avatar.LA.S01E01" tvg-name="Avatar LA S01E01" group-title="Diziler / Fantastik / Netflix",Avatar S01E01 | IMDb 7.3
 https://vs6.pictureflix.org/v/Avatar.The.Last.Airbender.S01E01.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
 
-#EXTINF:-1 tvg-id="Avatar.LA.S01E02" tvg-name="Avatar LA S01E02" tvg-logo="https://image.tmdb.org/t/p/original/9YQG6b2wXz8fK0J0a7mZq9xGZkF.jpg" group-title="Diziler / Avatar (Live-Action)",Avatar S01E02 | IMDb 7.3 | Ateş Ulusu Avatar’ın geri döndüğünü fark eder
+#EXTINF:-1 tvg-id="Avatar.LA.S01E02" tvg-name="Avatar LA S01E02" group-title="Diziler / Fantastik / Netflix",Avatar S01E02 | IMDb 7.3
 https://vs8.photofunia.pro/v/Avatar.The.Last.Airbender.S01E02.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
 
-#EXTINF:-1 tvg-id="Avatar.LA.S01E03" tvg-name="Avatar LA S01E03" tvg-logo="https://image.tmdb.org/t/p/original/9YQG6b2wXz8fK0J0a7mZq9xGZkF.jpg" group-title="Diziler / Avatar (Live-Action)",Avatar S01E03 | IMDb 7.3 | Aang geçmişiyle yüzleşir
+#EXTINF:-1 tvg-id="Avatar.LA.S01E03" tvg-name="Avatar LA S01E03" group-title="Diziler / Fantastik / Netflix",Avatar S01E03 | IMDb 7.3
 https://vs7.pictureflix.org/v/Avatar.The.Last.Airbender.S01E03.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
 
-#EXTINF:-1 tvg-id="Avatar.LA.S01E04" tvg-name="Avatar LA S01E04" tvg-logo="https://image.tmdb.org/t/p/original/9YQG6b2wXz8fK0J0a7mZq9xGZkF.jpg" group-title="Diziler / Avatar (Live-Action)",Avatar S01E04 | IMDb 7.3 | Kyoshi Adası’nda yeni müttefikler
+#EXTINF:-1 tvg-id="Avatar.LA.S01E04" tvg-name="Avatar LA S01E04" group-title="Diziler / Fantastik / Netflix",Avatar S01E04 | IMDb 7.3
 https://vs6.pictureflix.org/v/Avatar.The.Last.Airbender.S01E04.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
 
-#EXTINF:-1 tvg-id="Avatar.LA.S01E05" tvg-name="Avatar LA S01E05" tvg-logo="https://image.tmdb.org/t/p/original/9YQG6b2wXz8fK0J0a7mZq9xGZkF.jpg" group-title="Diziler / Avatar (Live-Action)",Avatar S01E05 | IMDb 7.3 | Omashu’da tehlikeli bir karşılaşma
+#EXTINF:-1 tvg-id="Avatar.LA.S01E05" tvg-name="Avatar LA S01E05" group-title="Diziler / Fantastik / Netflix",Avatar S01E05 | IMDb 7.3
 https://vs1.photoflick.org/v/Avatar.The.Last.Airbender.S01E05.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
 
-#EXTINF:-1 tvg-id="Avatar.LA.S01E06" tvg-name="Avatar LA S01E06" tvg-logo="https://image.tmdb.org/t/p/original/9YQG6b2wXz8fK0J0a7mZq9xGZkF.jpg" group-title="Diziler / Avatar (Live-Action)",Avatar S01E06 | IMDb 7.3 | Direniş ve fedakârlık
+#EXTINF:-1 tvg-id="Avatar.LA.S01E06" tvg-name="Avatar LA S01E06" group-title="Diziler / Fantastik / Netflix",Avatar S01E06 | IMDb 7.3
 https://vs1.photoflax.org/v/Avatar.The.Last.Airbender.S01E06.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
 
-#EXTINF:-1 tvg-id="Avatar.LA.S01E07" tvg-name="Avatar LA S01E07" tvg-logo="https://image.tmdb.org/t/p/original/9YQG6b2wXz8fK0J0a7mZq9xGZkF.jpg" group-title="Diziler / Avatar (Live-Action)",Avatar S01E07 | IMDb 7.3 | Ruhlar dünyasına yolculuk
+#EXTINF:-1 tvg-id="Avatar.LA.S01E07" tvg-name="Avatar LA S01E07" group-title="Diziler / Fantastik / Netflix",Avatar S01E07 | IMDb 7.3
 https://vs7.photofunny.org/v/Avatar.The.Last.Airbender.S01E07.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
 
-#EXTINF:-1 tvg-id="Avatar.LA.S01E08" tvg-name="Avatar LA S01E08" tvg-logo="https://image.tmdb.org/t/p/original/9YQG6b2wXz8fK0J0a7mZq9xGZkF.jpg" group-title="Diziler / Avatar (Live-Action)",Avatar S01E08 | IMDb 7.3 | Kuzey Su Kabilesi’nde kader savaşı
+#EXTINF:-1 tvg-id="Avatar.LA.S01E08" tvg-name="Avatar LA S01E08" group-title="Diziler / Fantastik / Netflix",Avatar S01E08 | IMDb 7.3
 https://vs8.photomag.biz/v/Avatar.The.Last.Airbender.S01E08.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
+
+
+#========================================
+# DIZI: IT – Welcome to Derry
+# TUR: Korku, Gerilim
+# YIL: 2025
+# PLATFORM: HBO / Max
+# SEZON: 1
+# BOLUM: 8
+# IMDB: 8.0 / 10 (tahmini genel)
+# EVREN: Stephen King – IT
+# KONUSU:
+# 1960'lı yıllarda Derry kasabasında,
+# Pennywise dehşetinin kökenleri
+# gün yüzüne çıkmaya başlar.
+#========================================
+
+#EXTINF:-1 tvg-id="IT.Derry.S01E01" tvg-name="IT Welcome to Derry S01E01" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E01 | IMDb 8.0
+https://vs15.pictureflix.org/v/IT.Welcome.to.Derry.S01E01.1080p/1080.m3u8
+
+#EXTINF:-1 tvg-id="IT.Derry.S01E02" tvg-name="IT Welcome to Derry S01E02" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E02 | IMDb 8.0
+https://vs10.photofunny.org/v/IT.Welcome.to.Derry.S01E02.1080p/1080.m3u8
+
+#EXTINF:-1 tvg-id="IT.Derry.S01E03" tvg-name="IT Welcome to Derry S01E03" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E03 | IMDb 8.0
+https://vs10.photostack.net/v/IT.Welcome.to.Derry.S01E03.1080p/1080.m3u8
+
+#EXTINF:-1 tvg-id="IT.Derry.S01E04" tvg-name="IT Welcome to Derry S01E04" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E04 | IMDb 8.0
+https://vs21.photomag.biz/v/IT.Welcome.to.Derry.S01E04.1080p.WebDL.x264.TR.ENG.FilmbolSeries/1080.m3u8
+
+#EXTINF:-1 tvg-id="IT.Derry.S01E05" tvg-name="IT Welcome to Derry S01E05" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E05 | IMDb 8.0
+https://vs22.photoflax.org/v/IT.Welcome.to.Derry.S01E05.1080p.WebDL.x264.TR.ENG.FilmbolSeries/1080.m3u8
+
+#EXTINF:-1 tvg-id="IT.Derry.S01E06" tvg-name="IT Welcome to Derry S01E06" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E06 | IMDb 8.0
+https://vs21.photour.org/v/IT.Welcome.to.Derry.S01E06.1080p/1080.m3u8
+
+#EXTINF:-1 tvg-id="IT.Derry.S01E07" tvg-name="IT Welcome to Derry S01E07" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E07 | IMDb 8.0
+https://vs21.gamephotos.pro/v/IT.Welcome.to.Derry.S01E07.1080p.WebDL/1080.m3u8
+
+#EXTINF:-1 tvg-id="IT.Derry.S01E08" tvg-name="IT Welcome to Derry S01E08" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E08 | IMDb 8.0
+https://vs21.photomag.biz/v/IT.Welcome.to.Derry.S01E08.1080p.WebDL.x264.TR.ENG.FilmbolSeries/1080.m3u8
