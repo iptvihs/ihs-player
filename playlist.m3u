@@ -9,35 +9,37 @@
 # BOLUM: 8
 # IMDB: 7.3 / 10
 # KONUSU:
-# Dört ulusun yaşadığı dünyada denge bozulmuştur.
 # Uzun süre kayıp olan Avatar Aang,
-# Ateş Ulusu’nun tehdidine karşı
+# Ateş Ulusu’nun dünyaya yaydığı
+# tehdidi durdurmak için geri döner.
 # Katara ve Sokka ile birlikte
-# dünyayı kurtarmak için yolculuğa çıkar.
-# Bu yapım, klasik animasyon dizinin
-# gerçek oyuncularla yeniden uyarlanmış hâlidir.
+# dört ulus arasında dengeyi
+# yeniden sağlamak zorundadır.
 #========================================
 
-#EXTINF:-1 tvg-id="Avatar.LA.S01E01" tvg-name="Avatar LA S01E01" tvg-logo="https://i.imgur.com/8QwKZQm.png" group-title="Diziler / Avatar (Live-Action)",Avatar S01E01 | IMDb 7.3 | Aang buzdan uyanır ve Avatar olduğunu keşfeder
+# EXTINF SATIRLARINDA KULLANILAN AFIŞ (POSTER):
+# https://image.tmdb.org/t/p/original/1Lh9LER4xRQ3INFFi2dfS2hpRwv.jpg
+
+#EXTINF:-1 tvg-id="Avatar.LA.S01E01" tvg-name="Avatar LA S01E01" tvg-logo="https://image.tmdb.org/t/p/original/1Lh9LER4xRQ3INFFi2dfS2hpRwv.jpg" group-title="Diziler / Avatar (Live-Action)",Avatar S01E01 | IMDb 7.3 | Aang buzdan uyanır ve Avatar olduğunu keşfeder
 https://vs6.pictureflix.org/v/Avatar.The.Last.Airbender.S01E01.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
 
-#EXTINF:-1 tvg-id="Avatar.LA.S01E02" tvg-name="Avatar LA S01E02" tvg-logo="https://i.imgur.com/8QwKZQm.png" group-title="Diziler / Avatar (Live-Action)",Avatar S01E02 | IMDb 7.3 | Ateş Ulusu Avatar’ın geri döndüğünü fark eder
+#EXTINF:-1 tvg-id="Avatar.LA.S01E02" tvg-name="Avatar LA S01E02" tvg-logo="https://image.tmdb.org/t/p/original/1Lh9LER4xRQ3INFFi2dfS2hpRwv.jpg" group-title="Diziler / Avatar (Live-Action)",Avatar S01E02 | IMDb 7.3 | Ateş Ulusu Avatar’ın geri döndüğünü fark eder
 https://vs8.photofunia.pro/v/Avatar.The.Last.Airbender.S01E02.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
 
-#EXTINF:-1 tvg-id="Avatar.LA.S01E03" tvg-name="Avatar LA S01E03" tvg-logo="https://i.imgur.com/8QwKZQm.png" group-title="Diziler / Avatar (Live-Action)",Avatar S01E03 | IMDb 7.3 | Aang geçmişi ve mirasıyla yüzleşir
+#EXTINF:-1 tvg-id="Avatar.LA.S01E03" tvg-name="Avatar LA S01E03" tvg-logo="https://image.tmdb.org/t/p/original/1Lh9LER4xRQ3INFFi2dfS2hpRwv.jpg" group-title="Diziler / Avatar (Live-Action)",Avatar S01E03 | IMDb 7.3 | Aang geçmişi ve mirasıyla yüzleşir
 https://vs7.pictureflix.org/v/Avatar.The.Last.Airbender.S01E03.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
 
-#EXTINF:-1 tvg-id="Avatar.LA.S01E04" tvg-name="Avatar LA S01E04" tvg-logo="https://i.imgur.com/8QwKZQm.png" group-title="Diziler / Avatar (Live-Action)",Avatar S01E04 | IMDb 7.3 | Kyoshi Adası’nda yeni müttefikler
+#EXTINF:-1 tvg-id="Avatar.LA.S01E04" tvg-name="Avatar LA S01E04" tvg-logo="https://image.tmdb.org/t/p/original/1Lh9LER4xRQ3INFFi2dfS2hpRwv.jpg" group-title="Diziler / Avatar (Live-Action)",Avatar S01E04 | IMDb 7.3 | Kyoshi Adası’nda yeni müttefikler
 https://vs6.pictureflix.org/v/Avatar.The.Last.Airbender.S01E04.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
 
-#EXTINF:-1 tvg-id="Avatar.LA.S01E05" tvg-name="Avatar LA S01E05" tvg-logo="https://i.imgur.com/8QwKZQm.png" group-title="Diziler / Avatar (Live-Action)",Avatar S01E05 | IMDb 7.3 | Omashu’da tehlikeli bir oyun
+#EXTINF:-1 tvg-id="Avatar.LA.S01E05" tvg-name="Avatar LA S01E05" tvg-logo="https://image.tmdb.org/t/p/original/1Lh9LER4xRQ3INFFi2dfS2hpRwv.jpg" group-title="Diziler / Avatar (Live-Action)",Avatar S01E05 | IMDb 7.3 | Omashu’da tehlikeli bir karşılaşma
 https://vs1.photoflick.org/v/Avatar.The.Last.Airbender.S01E05.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
 
-#EXTINF:-1 tvg-id="Avatar.LA.S01E06" tvg-name="Avatar LA S01E06" tvg-logo="https://i.imgur.com/8QwKZQm.png" group-title="Diziler / Avatar (Live-Action)",Avatar S01E06 | IMDb 7.3 | Direniş, fedakârlık ve umut
+#EXTINF:-1 tvg-id="Avatar.LA.S01E06" tvg-name="Avatar LA S01E06" tvg-logo="https://image.tmdb.org/t/p/original/1Lh9LER4xRQ3INFFi2dfS2hpRwv.jpg" group-title="Diziler / Avatar (Live-Action)",Avatar S01E06 | IMDb 7.3 | Direniş ve fedakârlık
 https://vs1.photoflax.org/v/Avatar.The.Last.Airbender.S01E06.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
 
-#EXTINF:-1 tvg-id="Avatar.LA.S01E07" tvg-name="Avatar LA S01E07" tvg-logo="https://i.imgur.com/8QwKZQm.png" group-title="Diziler / Avatar (Live-Action)",Avatar S01E07 | IMDb 7.3 | Ruhlar dünyasına yolculuk
+#EXTINF:-1 tvg-id="Avatar.LA.S01E07" tvg-name="Avatar LA S01E07" tvg-logo="https://image.tmdb.org/t/p/original/1Lh9LER4xRQ3INFFi2dfS2hpRwv.jpg" group-title="Diziler / Avatar (Live-Action)",Avatar S01E07 | IMDb 7.3 | Ruhlar dünyasına yolculuk
 https://vs7.photofunny.org/v/Avatar.The.Last.Airbender.S01E07.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
 
-#EXTINF:-1 tvg-id="Avatar.LA.S01E08" tvg-name="Avatar LA S01E08" tvg-logo="https://i.imgur.com/8QwKZQm.png" group-title="Diziler / Avatar (Live-Action)",Avatar S01E08 | IMDb 7.3 | Kuzey Su Kabilesi’nde kader savaşı
+#EXTINF:-1 tvg-id="Avatar.LA.S01E08" tvg-name="Avatar LA S01E08" tvg-logo="https://image.tmdb.org/t/p/original/1Lh9LER4xRQ3INFFi2dfS2hpRwv.jpg" group-title="Diziler / Avatar (Live-Action)",Avatar S01E08 | IMDb 7.3 | Kuzey Su Kabilesi’nde kader savaşı
 https://vs8.photomag.biz/v/Avatar.The.Last.Airbender.S01E08.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
