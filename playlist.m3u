@@ -75,3 +75,21 @@ https://vs21.gamephotos.pro/v/IT.Welcome.to.Derry.S01E07.1080p.WebDL/1080.m3u8
 
 #EXTINF:-1 tvg-id="IT.Derry.S01E08" tvg-name="IT Welcome to Derry S01E08" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E08 | IMDb 8.0
 https://vs21.photomag.biz/v/IT.Welcome.to.Derry.S01E08.1080p.WebDL.x264.TR.ENG.FilmbolSeries/1080.m3u8
+#EXTM3U
+
+#========================================
+# DIZI: Pluribus
+# TUR: Sci-Fi, Drama, Fantastik
+# YIL: 2025
+# PLATFORM: Apple TV+
+# SEZON: 1
+# BOLUM: 9
+# IMDB: ~8.4/10
+# KONUSU:
+# Dünyanın çoğu insanını bir kolektif bilinç haline dönüştüren
+# bir olayın ardından bağışık kalan Carol Sturka’nın
+# hikâyesi anlatılır. :contentReference[oaicite:6]{index=6}
+#========================================
+
+#EXTINF:-1 tvg-id="Pluribus.S01E01" tvg-name="Pluribus S01E01" group-title="Diziler / Sci-Fi / Apple TV+",Pluribus S01E01 | IMDb ~8.4
+https://vs12.photoflix.org/v/Pluribus.S01E01.1080p.WebDL/1080.m3u8
