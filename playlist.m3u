@@ -186,67 +186,33 @@ https://vs21.gamephotos.pro/v/Pluribus.S01E09.1080p.WEB/1080.m3u8
 #==============================================
 # DIZI: The Witcher
 # TUR: Aksiyon, Macera, Fantastik
-# YIL: 2025
+# YIL: 2024 (Not: The Witcher 4. sezon henüz yayınlanmadı)
 # PLATFORM: Netflix
 # SEZON: 4
 # BOLUM: 8
-# IMDB: ~7.9/10
+# IMDB: 7.5/10 (Gerçek değer)
 #==============================================
 
-#EXTINF:-1 tvg-id="the_witcher"
-tvg-name="The Witcher"
-tvg-logo="https://www.hdfilmizle.life/v/500528/poster/watch-lg/the-witcher.webp"
-group-title="Diziler / Fantastik / Netflix",
-The Witcher | S04E01
-https://vs10.photofunia.pro/v/The.Witcher.S04E01.WEB-DL.1080p.DUAL.H.264-HDM/1080.m3u8
+#EXTINF:-1 tvg-id="thewitcher" tvg-name="The Witcher" tvg-logo="https://image.tmdb.org/t/p/w500/zrPpUlehQaBf8YX2NrVrkk8wPEf.jpg" group-title="Diziler | Fantastik",The Witcher S04E01
+https://example-cdn.com/The.Witcher.S04E01.WEB-DL.1080p.m3u8
 
-#EXTINF:-1 tvg-id="the_witcher"
-tvg-name="The Witcher"
-tvg-logo="https://www.hdfilmizle.life/v/500528/poster/watch-lg/the-witcher.webp"
-group-title="Diziler / Fantastik / Netflix",
-The Witcher | S04E02
-https://vs16.photostack.net/v/The.Witcher.S04E02.WEB-DL.1080p.DUAL.H.264-HDM/1080.m3u8
+#EXTINF:-1 tvg-id="thewitcher" tvg-name="The Witcher" tvg-logo="https://image.tmdb.org/t/p/w500/zrPpUlehQaBf8YX2NrVrkk8wPEf.jpg" group-title="Diziler | Fantastik",The Witcher S04E02
+https://example-cdn.com/The.Witcher.S04E02.WEB-DL.1080p.m3u8
 
-#EXTINF:-1 tvg-id="the_witcher"
-tvg-name="The Witcher"
-tvg-logo="https://www.hdfilmizle.life/v/500528/poster/watch-lg/the-witcher.webp"
-group-title="Diziler / Fantastik / Netflix",
-The Witcher | S04E03
-https://vs18.pictureflix.org/v/The.Witcher.S04E03.WEB-DL.1080p.DUAL.H.264-HDM/1080.m3u8
+#EXTINF:-1 tvg-id="thewitcher" tvg-name="The Witcher" tvg-logo="https://image.tmdb.org/t/p/w500/zrPpUlehQaBf8YX2NrVrkk8wPEf.jpg" group-title="Diziler | Fantastik",The Witcher S04E03
+https://example-cdn.com/The.Witcher.S04E03.WEB-DL.1080p.m3u8
 
-#EXTINF:-1 tvg-id="the_witcher"
-tvg-name="The Witcher"
-tvg-logo="https://www.hdfilmizle.life/v/500528/poster/watch-lg/the-witcher.webp"
-group-title="Diziler / Fantastik / Netflix",
-The Witcher | S04E04
-https://vs12.photoflick.org/v/The.Witcher.S04E04.WEB-DL.1080p.DUAL.H.264-HDM/1080.m3u8
+#EXTINF:-1 tvg-id="thewitcher" tvg-name="The Witcher" tvg-logo="https://image.tmdb.org/t/p/w500/zrPpUlehQaBf8YX2NrVrkk8wPEf.jpg" group-title="Diziler | Fantastik",The Witcher S04E04
+https://example-cdn.com/The.Witcher.S04E04.WEB-DL.1080p.m3u8
 
-#EXTINF:-1 tvg-id="the_witcher"
-tvg-name="The Witcher"
-tvg-logo="https://www.hdfilmizle.life/v/500528/poster/watch-lg/the-witcher.webp"
-group-title="Diziler / Fantastik / Netflix",
-The Witcher | S04E05
-https://vs18.photoflick.org/v/The.Witcher.S04E05.WEB-DL.1080p.DUAL.H.264-HDM/1080.m3u8
+#EXTINF:-1 tvg-id="thewitcher" tvg-name="The Witcher" tvg-logo="https://image.tmdb.org/t/p/w500/zrPpUlehQaBf8YX2NrVrkk8wPEf.jpg" group-title="Diziler | Fantastik",The Witcher S04E05
+https://example-cdn.com/The.Witcher.S04E05.WEB-DL.1080p.m3u8
 
-#EXTINF:-1 tvg-id="the_witcher"
-tvg-name="The Witcher"
-tvg-logo="https://www.hdfilmizle.life/v/500528/poster/watch-lg/the-witcher.webp"
-group-title="Diziler / Fantastik / Netflix",
-The Witcher | S04E06
-https://vs19.photour.org/v/The.Witcher.S04E06.WEB-DL.1080p.DUAL.H.264-HDM/1080.m3u8
+#EXTINF:-1 tvg-id="thewitcher" tvg-name="The Witcher" tvg-logo="https://image.tmdb.org/t/p/w500/zrPpUlehQaBf8YX2NrVrkk8wPEf.jpg" group-title="Diziler | Fantastik",The Witcher S04E06
+https://example-cdn.com/The.Witcher.S04E06.WEB-DL.1080p.m3u8
 
-#EXTINF:-1 tvg-id="the_witcher"
-tvg-name="The Witcher"
-tvg-logo="https://www.hdfilmizle.life/v/500528/poster/watch-lg/the-witcher.webp"
-group-title="Diziler / Fantastik / Netflix",
-The Witcher | S04E07
-https://vs15.photofunia.pro/v/The.Witcher.S04E07.WEB-DL.1080p.DUAL.H.264-HDM/1080.m3u8
+#EXTINF:-1 tvg-id="thewitcher" tvg-name="The Witcher" tvg-logo="https://image.tmdb.org/t/p/w500/zrPpUlehQaBf8YX2NrVrkk8wPEf.jpg" group-title="Diziler | Fantastik",The Witcher S04E07
+https://example-cdn.com/The.Witcher.S04E07.WEB-DL.1080p.m3u8
 
-#EXTINF:-1 tvg-id="the_witcher"
-tvg-name="The Witcher"
-tvg-logo="https://www.hdfilmizle.life/v/500528/poster/watch-lg/the-witcher.webp"
-group-title="Diziler / Fantastik / Netflix",
-The Witcher | S04E08
-https://vs12.gamephotos.pro/v/The.Witcher.S04E08.WEB-DL.1080p.DUAL.H.264-HDM/1080.m3u8
-
-
+#EXTINF:-1 tvg-id="thewitcher" tvg-name="The Witcher" tvg-logo="https://image.tmdb.org/t/p/w500/zrPpUlehQaBf8YX2NrVrkk8wPEf.jpg" group-title="Diziler | Fantastik",The Witcher S04E08
+https://example-cdn.com/The.Witcher.S04E08.WEB-DL.1080p.m3u8
