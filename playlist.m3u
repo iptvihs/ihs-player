@@ -294,20 +294,32 @@ https://drinkfromwisdomwell.top/hls/videos/38223/1080p/variant_1080p.m3u8
 #EXTINF:-1 tvg-id="fallout_s02" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 2",Fallout S02E02
 https://drakkarhls16.icu/hls/videos/38266/1080p/variant_1080p.m3u8
 
-#EXTINF:-1 tvg-id="fallout_s02" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 2",Fallout S02E03
-LINK_BURAYA
+#EXTM3U
 
-#EXTINF:-1 tvg-id="fallout_s02" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 2",Fallout S02E04
-LINK_BURAYA
+#========================================
+# DIZI: Spartacus: House of Ashur
+# TUR: Aksiyon, Tarih, Dram
+# YIL: 2025
+# PLATFORM: Starz
+# SEZON: 1
+# BOLUM: 10
+# IMDB: ~8.1/10
+# ACIKLAMA:
+# Spartacus efsanesinin yeni uyarlaması,
+# Roma İmparatorluğu’nun acımasız arenasında
+# özgürlük ve intikam mücadelesini konu alır.
+# Ashur’un yükselişi ve Spartacus’un mirası
+# üzerinden yeni bir hikâye anlatılır.
+#========================================
 
-#EXTINF:-1 tvg-id="fallout_s02" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 2",Fallout S02E05
-LINK_BURAYA
+#EXTINF:-1 tvg-id="spartacus_s01e01" tvg-name="Spartacus: House of Ashur" tvg-logo="https://image.tmdb.org/t/p/w500/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg" group-title="Spartacus Sezon 1",Spartacus S01E01 - Yeni Başlangıç
+https://drinkfromwisdomwell.top/hls/videos/37357/1080p/variant_1080p.m3u8
 
-#EXTINF:-1 tvg-id="fallout_s02" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 2",Fallout S02E06
-LINK_BURAYA
+#EXTINF:-1 tvg-id="spartacus_s01e02" tvg-name="Spartacus: House of Ashur" tvg-logo="https://image.tmdb.org/t/p/w500/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg" group-title="Spartacus Sezon 1",Spartacus S01E02 - Arenada Kan
+https://drakkarhls10.icu/hls/videos/37424/1080p/variant_1080p.m3u8
 
-#EXTINF:-1 tvg-id="fallout_s02" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 2",Fallout S02E07
-LINK_BURAYA
+#EXTINF:-1 tvg-id="spartacus_s01e03" tvg-name="Spartacus: House of Ashur" tvg-logo="https://image.tmdb.org/t/p/w500/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg" group-title="Spartacus Sezon 1",Spartacus S01E03 - İhanetin Gölgesi
+https://drinkfromwisdomwell.top/hls/videos/37487/1080p/variant_1080p.m3u8
 
-#EXTINF:-1 tvg-id="fallout_s02" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 2",Fallout S02E08
-LINK_BURAYA
+#EXTINF:-1 tvg-id="spartacus_s01e04" tvg-name="Spartacus: House of Ashur" tvg-logo="https://image.tmdb.org/t/p/w500/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg" group-title="Spartacus Sezon 1",Spartacus S01E04 - Özgürlük Ateşi
+https://drinkfromwisdomwell.top/hls/videos/38314/1080p/variant_1080p.m3u8
