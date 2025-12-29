@@ -255,28 +255,28 @@ https://vs10.gamephotos.pro/v/Wednesday.S02E08.WEB-DL.1080p.DUAL.H.264-HDM/1080.
 # insanlığı kurtarmak için mücadele eder.
 #========================================
 
-#EXTINF:-1 tvg-id="fallout" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Diziler / Sci-Fi / Prime Video",Fallout S01E01
+#EXTINF:-1 tvg-id="fallout_s01" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 1",Fallout S01E01
 https://drakkarhls16.icu/hls/videos/13100/1080p/variant_1080p.m3u8
 
-#EXTINF:-1 tvg-id="fallout" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Diziler / Sci-Fi / Prime Video",Fallout S01E02
+#EXTINF:-1 tvg-id="fallout_s01" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 1",Fallout S01E02
 https://drakkarhls16.icu/hls/videos/13101/1080p/variant_1080p.m3u8
 
-#EXTINF:-1 tvg-id="fallout" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Diziler / Sci-Fi / Prime Video",Fallout S01E03
+#EXTINF:-1 tvg-id="fallout_s01" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 1",Fallout S01E03
 https://drinkfromwisdomwell.top/hls/videos/13102/1080p/variant_1080p.m3u8
 
-#EXTINF:-1 tvg-id="fallout" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Diziler / Sci-Fi / Prime Video",Fallout S01E04
+#EXTINF:-1 tvg-id="fallout_s01" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 1",Fallout S01E04
 https://drinkfromwisdomwell.top/hls/videos/13103/1080p/variant_1080p.m3u8
 
-#EXTINF:-1 tvg-id="fallout" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Diziler / Sci-Fi / Prime Video",Fallout S01E05
+#EXTINF:-1 tvg-id="fallout_s01" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 1",Fallout S01E05
 https://drakkarhls16.icu/hls/videos/13104/1080p/variant_1080p.m3u8
 
-#EXTINF:-1 tvg-id="fallout" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Diziler / Sci-Fi / Prime Video",Fallout S01E06
+#EXTINF:-1 tvg-id="fallout_s01" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 1",Fallout S01E06
 https://drinkfromwisdomwell.top/hls/videos/13105/1080p/variant_1080p.m3u8
 
-#EXTINF:-1 tvg-id="fallout" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Diziler / Sci-Fi / Prime Video",Fallout S01E07
+#EXTINF:-1 tvg-id="fallout_s01" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 1",Fallout S01E07
 https://drinkfromwisdomwell.top/hls/videos/13106/1080p/variant_1080p.m3u8
 
-#EXTINF:-1 tvg-id="fallout" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Diziler / Sci-Fi / Prime Video",Fallout S01E08
+#EXTINF:-1 tvg-id="fallout_s01" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 1",Fallout S01E08
 https://drinkfromwisdomwell.top/hls/videos/13107/1080p/variant_1080p.m3u8
 
 #========================================
@@ -288,9 +288,26 @@ https://drinkfromwisdomwell.top/hls/videos/13107/1080p/variant_1080p.m3u8
 # BOLUM: 8 (şablon)
 #========================================
 
-#EXTINF:-1 tvg-id="fallout" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Diziler / Sci-Fi / Prime Video",Fallout S02E01
+#EXTINF:-1 tvg-id="fallout_s02" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 2",Fallout S02E01
 https://drinkfromwisdomwell.top/hls/videos/38223/1080p/variant_1080p.m3u8
 
-#EXTINF:-1 tvg-id="fallout" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Diziler / Sci-Fi / Prime Video",Fallout S02E02
+#EXTINF:-1 tvg-id="fallout_s02" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 2",Fallout S02E02
 https://drakkarhls16.icu/hls/videos/38266/1080p/variant_1080p.m3u8
 
+#EXTINF:-1 tvg-id="fallout_s02" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 2",Fallout S02E03
+LINK_BURAYA
+
+#EXTINF:-1 tvg-id="fallout_s02" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 2",Fallout S02E04
+LINK_BURAYA
+
+#EXTINF:-1 tvg-id="fallout_s02" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 2",Fallout S02E05
+LINK_BURAYA
+
+#EXTINF:-1 tvg-id="fallout_s02" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 2",Fallout S02E06
+LINK_BURAYA
+
+#EXTINF:-1 tvg-id="fallout_s02" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 2",Fallout S02E07
+LINK_BURAYA
+
+#EXTINF:-1 tvg-id="fallout_s02" tvg-name="Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/xyzPosterPath.jpg" group-title="Fallout Sezon 2",Fallout S02E08
+LINK_BURAYA
