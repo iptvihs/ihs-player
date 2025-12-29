@@ -332,13 +332,21 @@ https://drinkfromwisdomwell.top/hls/videos/38314/1080p/variant_1080p.m3u8
 # YIL: 2025
 # PLATFORM: Netflix
 # SEZON: 1
-# BOLUM: 8
-# IMDB: ~5.1/10
+# BOLUM: 3
+# IMDB: ~7.9/10
 # ACIKLAMA:
-# Yasemin, ölümcül bir kalp hastalığıyla mücadele ederken
-# ahlaki açıdan gri kararların içine sürüklenir. Destekçisi Tufan’la
-# birlikte organ nakli listesine girebilmek için karanlık ağlara temas eder.
+# Jasmine, aşk ve ihanetin gölgesinde
+# kendi yolunu bulmaya çalışan genç bir
+# kadının hikâyesini anlatır. Modern şehir
+# hayatında karşılaştığı zorluklar ve
+# gizli sırlar, onun kaderini belirler.
 #========================================
 
-#EXTINF:-1 tvg-id="jasmine_s01e01" tvg-name="Jasmine" tvg-logo="https://image.tmdb.org/t/p/w500/POSTER_PATH.jpg" group-title="Jasmine Sezon 1",Jasmine S01E01 - Başlangıç
+#EXTINF:-1 tvg-id="jasmine_s01e01" tvg-name="Jasmine" group-title="Jasmine Sezon 1",Jasmine S01E01 - Başlangıç
 https://drakkarhls16.icu/hls/videos/37489/1080p/variant_1080p.m3u8
+
+#EXTINF:-1 tvg-id="jasmine_s01e02" tvg-name="Jasmine" group-title="Jasmine Sezon 1",Jasmine S01E02 - İhanet
+https://drakkarhls16.icu/hls/videos/38238/1080p/variant_1080p.m3u8
+
+#EXTINF:-1 tvg-id="jasmine_s01e03" tvg-name="Jasmine" group-title="Jasmine Sezon 1",Jasmine S01E03 - Sırlar
+https://drinkfromwisdomwell.top/hls/videos/38406/1080p/variant_1080p.m3u8
