@@ -68,6 +68,8 @@ https://vs8.photomag.biz/v/Avatar.The.Last.Airbender.S01E08.WEB-DL.1080p.DUAL.x2
 
 
 
+#EXTM3U
+
 #========================================
 # DIZI: IT – Welcome to Derry
 # TUR: Korku, Gerilim
@@ -75,37 +77,66 @@ https://vs8.photomag.biz/v/Avatar.The.Last.Airbender.S01E08.WEB-DL.1080p.DUAL.x2
 # PLATFORM: HBO / Max
 # SEZON: 1
 # BOLUM: 8
-# IMDB: 8.0 / 10 (tahmini genel)
+# IMDB: ~8.0/10
 # EVREN: Stephen King – IT
-# KONUSU:
-# 1960'lı yıllarda Derry kasabasında,
-# Pennywise dehşetinin kökenleri
-# gün yüzüne çıkmaya başlar.
 #========================================
 
-#EXTINF:-1 tvg-id="IT.Derry.S01E01" tvg-name="IT Welcome to Derry S01E01" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E01 | IMDb 8.0
+#EXTINF:-1 tvg-id="it.welcome.to.derry"
+tvg-name="IT: Welcome to Derry"
+tvg-logo="https://image.tmdb.org/t/p/original/9hGZ2uYpE6n7WJp6kH8QpJ0l0Jm.jpg"
+group-title="Diziler / Korku / HBO",
+IT: Welcome to Derry | S01E01
 https://vs15.pictureflix.org/v/IT.Welcome.to.Derry.S01E01.1080p/1080.m3u8
 
-#EXTINF:-1 tvg-id="IT.Derry.S01E02" tvg-name="IT Welcome to Derry S01E02" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E02 | IMDb 8.0
+#EXTINF:-1 tvg-id="it.welcome.to.derry"
+tvg-name="IT: Welcome to Derry"
+tvg-logo="https://image.tmdb.org/t/p/original/9hGZ2uYpE6n7WJp6kH8QpJ0l0Jm.jpg"
+group-title="Diziler / Korku / HBO",
+IT: Welcome to Derry | S01E02
 https://vs10.photofunny.org/v/IT.Welcome.to.Derry.S01E02.1080p/1080.m3u8
 
-#EXTINF:-1 tvg-id="IT.Derry.S01E03" tvg-name="IT Welcome to Derry S01E03" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E03 | IMDb 8.0
+#EXTINF:-1 tvg-id="it.welcome.to.derry"
+tvg-name="IT: Welcome to Derry"
+tvg-logo="https://image.tmdb.org/t/p/original/9hGZ2uYpE6n7WJp6kH8QpJ0l0Jm.jpg"
+group-title="Diziler / Korku / HBO",
+IT: Welcome to Derry | S01E03
 https://vs10.photostack.net/v/IT.Welcome.to.Derry.S01E03.1080p/1080.m3u8
 
-#EXTINF:-1 tvg-id="IT.Derry.S01E04" tvg-name="IT Welcome to Derry S01E04" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E04 | IMDb 8.0
+#EXTINF:-1 tvg-id="it.welcome.to.derry"
+tvg-name="IT: Welcome to Derry"
+tvg-logo="https://image.tmdb.org/t/p/original/9hGZ2uYpE6n7WJp6kH8QpJ0l0Jm.jpg"
+group-title="Diziler / Korku / HBO",
+IT: Welcome to Derry | S01E04
 https://vs21.photomag.biz/v/IT.Welcome.to.Derry.S01E04.1080p.WebDL.x264.TR.ENG.FilmbolSeries/1080.m3u8
 
-#EXTINF:-1 tvg-id="IT.Derry.S01E05" tvg-name="IT Welcome to Derry S01E05" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E05 | IMDb 8.0
+#EXTINF:-1 tvg-id="it.welcome.to.derry"
+tvg-name="IT: Welcome to Derry"
+tvg-logo="https://image.tmdb.org/t/p/original/9hGZ2uYpE6n7WJp6kH8QpJ0l0Jm.jpg"
+group-title="Diziler / Korku / HBO",
+IT: Welcome to Derry | S01E05
 https://vs22.photoflax.org/v/IT.Welcome.to.Derry.S01E05.1080p.WebDL.x264.TR.ENG.FilmbolSeries/1080.m3u8
 
-#EXTINF:-1 tvg-id="IT.Derry.S01E06" tvg-name="IT Welcome to Derry S01E06" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E06 | IMDb 8.0
+#EXTINF:-1 tvg-id="it.welcome.to.derry"
+tvg-name="IT: Welcome to Derry"
+tvg-logo="https://image.tmdb.org/t/p/original/9hGZ2uYpE6n7WJp6kH8QpJ0l0Jm.jpg"
+group-title="Diziler / Korku / HBO",
+IT: Welcome to Derry | S01E06
 https://vs21.photour.org/v/IT.Welcome.to.Derry.S01E06.1080p/1080.m3u8
 
-#EXTINF:-1 tvg-id="IT.Derry.S01E07" tvg-name="IT Welcome to Derry S01E07" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E07 | IMDb 8.0
+#EXTINF:-1 tvg-id="it.welcome.to.derry"
+tvg-name="IT: Welcome to Derry"
+tvg-logo="https://image.tmdb.org/t/p/original/9hGZ2uYpE6n7WJp6kH8QpJ0l0Jm.jpg"
+group-title="Diziler / Korku / HBO",
+IT: Welcome to Derry | S01E07
 https://vs21.gamephotos.pro/v/IT.Welcome.to.Derry.S01E07.1080p.WebDL/1080.m3u8
 
-#EXTINF:-1 tvg-id="IT.Derry.S01E08" tvg-name="IT Welcome to Derry S01E08" group-title="Diziler / Korku / HBO",IT: Welcome to Derry S01E08 | IMDb 8.0
+#EXTINF:-1 tvg-id="it.welcome.to.derry"
+tvg-name="IT: Welcome to Derry"
+tvg-logo="https://image.tmdb.org/t/p/original/9hGZ2uYpE6n7WJp6kH8QpJ0l0Jm.jpg"
+group-title="Diziler / Korku / HBO",
+IT: Welcome to Derry | S01E08
 https://vs21.photomag.biz/v/IT.Welcome.to.Derry.S01E08.1080p.WebDL.x264.TR.ENG.FilmbolSeries/1080.m3u8
+
 
 #EXTM3U
 
@@ -117,47 +148,71 @@ https://vs21.photomag.biz/v/IT.Welcome.to.Derry.S01E08.1080p.WebDL.x264.TR.ENG.F
 # SEZON: 1
 # BOLUM: 9
 # IMDB: ~8.4/10
-# KONUSU:
-# Dünyanın çoğu insanını bir kolektif bilinç haline dönüştüren
-# bir olayın ardından bağışık kalan Carol Sturka’nın
-# hikâyesi anlatılır. :contentReference[oaicite:6]{index=6}
 #========================================
 
-#EXTINF:-1 tvg-id="Pluribus.S01E01" tvg-name="Pluribus S01E01" tvg-logo="https://impawards.com/tv/posters/pluribus.jpg" group-title="Diziler / Sci‑Fi / Apple TV+",Pluribus S01E01 | IMDb ~8.4
+#EXTINF:-1 tvg-id="pluribus"
+tvg-name="Pluribus"
+tvg-logo="https://impawards.com/tv/posters/pluribus.jpg"
+group-title="Diziler / Sci-Fi / Apple TV+",
+Pluribus | S01E01
 https://vs12.photoflix.org/v/Pluribus.S01E01.1080p.WebDL/1080.m3u8
-#EXTVLCOPT:sub-file=/mnt/subs/Pluribus.S01E01.tr.srt
 
-#EXTINF:-1 tvg-id="Pluribus.S01E02" tvg-name="Pluribus S01E02" tvg-logo="https://impawards.com/tv/posters/pluribus.jpg" group-title="Diziler / Sci‑Fi / Apple TV+",Pluribus S01E02 | IMDb ~8.4
+#EXTINF:-1 tvg-id="pluribus"
+tvg-name="Pluribus"
+tvg-logo="https://impawards.com/tv/posters/pluribus.jpg"
+group-title="Diziler / Sci-Fi / Apple TV+",
+Pluribus | S01E02
 https://vs13.photoflax.org/v/Pluribus.S01E02.1080p.WebDL/1080.m3u8
-#EXTVLCOPT:sub-file=/mnt/subs/Pluribus.S01E02.tr.srt
 
-#EXTINF:-1 tvg-id="Pluribus.S01E03" tvg-name="Pluribus S01E03" tvg-logo="https://impawards.com/tv/posters/pluribus.jpg" group-title="Diziler / Sci‑Fi / Apple TV+",Pluribus S01E03 | IMDb ~8.4
+#EXTINF:-1 tvg-id="pluribus"
+tvg-name="Pluribus"
+tvg-logo="https://impawards.com/tv/posters/pluribus.jpg"
+group-title="Diziler / Sci-Fi / Apple TV+",
+Pluribus | S01E03
 https://vs11.pictureflix.org/v/Pluribus.S01E03.Grenade.1080p/1080.m3u8
-#EXTVLCOPT:sub-file=/mnt/subs/Pluribus.S01E03.tr.srt
 
-#EXTINF:-1 tvg-id="Pluribus.S01E04" tvg-name="Pluribus S01E04" tvg-logo="https://impawards.com/tv/posters/pluribus.jpg" group-title="Diziler / Sci‑Fi / Apple TV+",Pluribus S01E04 | IMDb ~8.4
+#EXTINF:-1 tvg-id="pluribus"
+tvg-name="Pluribus"
+tvg-logo="https://impawards.com/tv/posters/pluribus.jpg"
+group-title="Diziler / Sci-Fi / Apple TV+",
+Pluribus | S01E04
 https://vs21.photofunia.pro/v/Pluribus.S01E04.1080p.WebDL/1080.m3u8
-#EXTVLCOPT:sub-file=/mnt/subs/Pluribus.S01E04.tr.srt
 
-#EXTINF:-1 tvg-id="Pluribus.S01E05" tvg-name="Pluribus S01E05" tvg-logo="https://impawards.com/tv/posters/pluribus.jpg" group-title="Diziler / Sci‑Fi / Apple TV+",Pluribus S01E05 | IMDb ~8.4
+#EXTINF:-1 tvg-id="pluribus"
+tvg-name="Pluribus"
+tvg-logo="https://impawards.com/tv/posters/pluribus.jpg"
+group-title="Diziler / Sci-Fi / Apple TV+",
+Pluribus | S01E05
 https://vs22.photoflix.org/v/Pluribus.S01E05.1080p.WebDL/1080.m3u8
-#EXTVLCOPT:sub-file=/mnt/subs/Pluribus.S01E05.tr.srt
 
-#EXTINF:-1 tvg-id="Pluribus.S01E06" tvg-name="Pluribus S01E06" tvg-logo="https://impawards.com/tv/posters/pluribus.jpg" group-title="Diziler / Sci‑Fi / Apple TV+",Pluribus S01E06 | IMDb ~8.4
+#EXTINF:-1 tvg-id="pluribus"
+tvg-name="Pluribus"
+tvg-logo="https://impawards.com/tv/posters/pluribus.jpg"
+group-title="Diziler / Sci-Fi / Apple TV+",
+Pluribus | S01E06
 https://vs12.photostack.net/v/Pluribus.S01E06.1080p.WebDL/1080.m3u8
-#EXTVLCOPT:sub-file=/mnt/subs/Pluribus.S01E06.tr.srt
 
-#EXTINF:-1 tvg-id="Pluribus.S01E07" tvg-name="Pluribus S01E07" tvg-logo="https://impawards.com/tv/posters/pluribus.jpg" group-title="Diziler / Sci‑Fi / Apple TV+",Pluribus S01E07 | IMDb ~8.4
+#EXTINF:-1 tvg-id="pluribus"
+tvg-name="Pluribus"
+tvg-logo="https://impawards.com/tv/posters/pluribus.jpg"
+group-title="Diziler / Sci-Fi / Apple TV+",
+Pluribus | S01E07
 https://vs22.photour.org/v/Pluribus.S01E07.1080p.WebDL/1080.m3u8
-#EXTVLCOPT:sub-file=/mnt/subs/Pluribus.S01E07.tr.srt
 
-#EXTINF:-1 tvg-id="Pluribus.S01E08" tvg-name="Pluribus S01E08" tvg-logo="https://impawards.com/tv/posters/pluribus.jpg" group-title="Diziler / Sci‑Fi / Apple TV+",Pluribus S01E08 | IMDb ~8.4
+#EXTINF:-1 tvg-id="pluribus"
+tvg-name="Pluribus"
+tvg-logo="https://impawards.com/tv/posters/pluribus.jpg"
+group-title="Diziler / Sci-Fi / Apple TV+",
+Pluribus | S01E08
 https://vs21.gamephotos.pro/v/Pluribus.S01E08.1080p.WebDL/1080.m3u8
-#EXTVLCOPT:sub-file=/mnt/subs/Pluribus.S01E08.tr.srt
 
-#EXTINF:-1 tvg-id="Pluribus.S01E09" tvg-name="Pluribus S01E09" tvg-logo="https://impawards.com/tv/posters/pluribus.jpg" group-title="Diziler / Sci‑Fi / Apple TV+",Pluribus S01E09 | IMDb ~8.4
+#EXTINF:-1 tvg-id="pluribus"
+tvg-name="Pluribus"
+tvg-logo="https://impawards.com/tv/posters/pluribus.jpg"
+group-title="Diziler / Sci-Fi / Apple TV+",
+Pluribus | S01E09
 https://vs21.gamephotos.pro/v/Pluribus.S01E09.1080p.WEB/1080.m3u8
-#EXTVLCOPT:sub-file=/mnt/subs/Pluribus.S01E09.tr.srt
+
 
 #EXTM3U
 
