@@ -488,6 +488,41 @@ https://drakkarhls4.icu/hls/videos/7102/1080p/variant_1080p.m3u8
 #EXTINF:-1 tvg-id="prens" tvg-name="Prens" tvg-logo="https://ddizi.us/images/ddizi/prens.webp" group-title="Diziler / Komedi",Prens S01E08
 https://drakkarhls4.icu/hls/videos/7103/1080p/variant_1080p.m3u8
 
+#EXTM3U
+
+#========================================
+# DIZI: Prens
+# TUR: Komedi, Tarihi Parodi
+# YIL: 2023‑2025
+# SEZON: 2
+# BOLUM: 7
+# IMDB: ~8.5/10 (yaklaşık)
+# ACIKLAMA:
+# Bongomia krallığında Prens’in tahta çıkışı sonrası
+# yaşadığı komik ve absürt maceraları konu alan ikinci sezon.
+#========================================
+
+#EXTINF:-1 tvg-id="prens" tvg-name="Prens" tvg-logo="https://ddizi.us/images/ddizi/prens.webp" group-title="Diziler / Komedi",Prens S02E01
+https://drakkarhls8.icu/hls/videos/7108/1080p/variant_1080p.m3u8
+
+#EXTINF:-1 tvg-id="prens" tvg-name="Prens" tvg-logo="https://ddizi.us/images/ddizi/prens.webp" group-title="Diziler / Komedi",Prens S02E02
+https://drakkarhls4.icu/hls/videos/7109/1080p/variant_1080p.m3u8
+
+#EXTINF:-1 tvg-id="prens" tvg-name="Prens" tvg-logo="https://ddizi.us/images/ddizi/prens.webp" group-title="Diziler / Komedi",Prens S02E03
+https://drakkarhls9.icu/hls/videos/7112/1080p/variant_1080p.m3u8
+
+#EXTINF:-1 tvg-id="prens" tvg-name="Prens" tvg-logo="https://ddizi.us/images/ddizi/prens.webp" group-title="Diziler / Komedi",Prens S02E04
+https://drakkarhls9.icu/hls/videos/7113/1080p/variant_1080p.m3u8
+
+#EXTINF:-1 tvg-id="prens" tvg-name="Prens" tvg-logo="https://ddizi.us/images/ddizi/prens.webp" group-title="Diziler / Komedi",Prens S02E05
+https://drakkarhls8.icu/hls/videos/7114/1080p/variant_1080p.m3u8
+
+#EXTINF:-1 tvg-id="prens" tvg-name="Prens" tvg-logo="https://ddizi.us/images/ddizi/prens.webp" group-title="Diziler / Komedi",Prens S02E06
+https://drakkarhls4.icu/hls/videos/7110/1080p/variant_1080p.m3u8
+
+#EXTINF:-1 tvg-id="prens" tvg-name="Prens" tvg-logo="https://ddizi.us/images/ddizi/prens.webp" group-title="Diziler / Komedi",Prens S02E07
+https://drakkarhls8.icu/hls/videos/7111/1080p/variant_1080p.m3u8
+
 
 #EXTM3U
 
