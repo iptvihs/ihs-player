@@ -447,3 +447,44 @@ https://drakkarhls16.icu/hls/videos/37484/1080p/variant_1080p.m3u8
 
 #EXTINF:-1 tvg-id="manvsbaby" tvg-name="Man vs Baby" tvg-logo="https://ddizi.us/images/ddizi/man-vs-baby.webp" group-title="Diziler / Komedi / Reality",Man vs Baby S01E05
 https://drakkarhls16.icu/hls/videos/37482/1080p/variant_1080p.m3u8
+
+
+#EXTM3U
+
+#========================================
+# DIZI: Prens
+# TUR: Komedi
+# YIL: 2023‑2025
+# SEZON: 1
+# BOLUM: 8
+# IMDB: ~8.5/10
+# ACIKLAMA:
+# Bongomia krallığında, kimse tarafından ciddiye
+# alınmayan ve adı bile verilmeyen Prens’in, tahta
+# çıkışı ve maceralarını mizahi bir dille anlatan dizi.
+#========================================
+
+#EXTINF:-1 tvg-id="prens" tvg-name="Prens" tvg-logo="https://ddizi.us/images/ddizi/prens.webp" group-title="Diziler / Komedi",Prens S01E01
+https://drakkarhls4.icu/hls/videos/7100/1080p/variant_1080p.m3u8
+
+#EXTINF:-1 tvg-id="prens" tvg-name="Prens" tvg-logo="https://ddizi.us/images/ddizi/prens.webp" group-title="Diziler / Komedi",Prens S01E02
+https://drakkarhls9.icu/hls/videos/7105/1080p/variant_1080p.m3u8
+
+#EXTINF:-1 tvg-id="prens" tvg-name="Prens" tvg-logo="https://ddizi.us/images/ddizi/prens.webp" group-title="Diziler / Komedi",Prens S01E03
+https://drakkarhls9.icu/hls/videos/7101/1080p/variant_1080p.m3u8
+
+#EXTINF:-1 tvg-id="prens" tvg-name="Prens" tvg-logo="https://ddizi.us/images/ddizi/prens.webp" group-title="Diziler / Komedi",Prens S01E04
+https://drakkarhls6.icu/hls/videos/7107/1080p/variant_1080p.m3u8
+
+#EXTINF:-1 tvg-id="prens" tvg-name="Prens" tvg-logo="https://ddizi.us/images/ddizi/prens.webp" group-title="Diziler / Komedi",Prens S01E05
+https://drakkarhls8.icu/hls/videos/7104/1080p/variant_1080p.m3u8
+
+#EXTINF:-1 tvg-id="prens" tvg-name="Prens" tvg-logo="https://ddizi.us/images/ddizi/prens.webp" group-title="Diziler / Komedi",Prens S01E06
+https://drakkarhls6.icu/hls/videos/7106/1080p/variant_1080p.m3u8
+
+#EXTINF:-1 tvg-id="prens" tvg-name="Prens" tvg-logo="https://ddizi.us/images/ddizi/prens.webp" group-title="Diziler / Komedi",Prens S01E07
+https://drakkarhls4.icu/hls/videos/7102/1080p/variant_1080p.m3u8
+
+#EXTINF:-1 tvg-id="prens" tvg-name="Prens" tvg-logo="https://ddizi.us/images/ddizi/prens.webp" group-title="Diziler / Komedi",Prens S01E08
+https://drakkarhls4.icu/hls/videos/7103/1080p/variant_1080p.m3u8
+
