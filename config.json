@@ -1,4 +1,7 @@
-{
-  "announcement_version":3,
-  "announcement_message": "v2.1 Sürümü Çıktı! Yepyeni özellikler ve hızlandırmalar eklendi. Hemen indirin!"
-}
+    {
+      "announcement_message": "Yeni sürüm yayında!",
+      "announcement_version": 2,
+      "download_url": "https://iptvihs.github.io/ihs-player/download.html",
+      "maintenance_mode": false
+    }
+    
